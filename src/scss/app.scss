@@ -27,7 +27,7 @@ html {
   font-size: 10rem;
   flex-flow: column;
   .chat {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     right: 0;
     width: 100px;
